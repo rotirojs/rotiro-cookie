@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["es6", "es2015.core", "es2017", "dom"],
+    "isolatedModules": false,
+    "removeComments": true,
+    "outDir": "./lib",
+    "noImplicitAny": true,
+    "noImplicitThis": false,
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "strict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUnusedLocals": true,
+    "baseUrl": "./",
+    "paths": {
+      "@api/*": [
+        "src/*"
+      ]
+    }
+  },
+  "exclude": ["node_modules", "**/*.spec.ts", "lib/**/*"]
+}
