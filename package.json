@@ -1,6 +1,6 @@
 {
   "name": "@rotirojs/rotiro-cookie",
-  "version": "1.0.7",
+  "version": "1.0.0",
   "description": "Rotiro Cookie Middleware",
   "author": "Alex Everitt",
   "scripts": {
