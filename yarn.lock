@@ -3074,10 +3074,10 @@ rimraf@^3.0.0:
   dependencies:
     glob "^7.1.3"
 
-rotiro@^1.0.34:
-  version "1.0.36"
-  resolved "https://registry.yarnpkg.com/rotiro/-/rotiro-1.0.36.tgz#e31fbf2fbeee50b90998c8853d5fef2e0a346876"
-  integrity sha512-lhDk/Rz9hBJKFBztC8fbGcegv9TQx9Ko/nbelMLWu1j9zpOuwtA4/tdYQJeTC3TV7wzikKSouCk4bcA1DKHZ7w==
+rotiro@^1.x.x:
+  version "1.0.44"
+  resolved "https://registry.yarnpkg.com/rotiro/-/rotiro-1.0.44.tgz#c1c8b3cb414d929dcda4236f18d92e6810350e85"
+  integrity sha512-rCGQkjWMeehvvO6TD9dGwyDn4di4ovB+LZ1pBhpoe3RF6FN0Y3v+xaB3xjaxC43Qysfu7LT18E4Bc/5aLtjpEw==
   dependencies:
     debug "^4.3.1"
     path-to-regexp "^6.2.0"
